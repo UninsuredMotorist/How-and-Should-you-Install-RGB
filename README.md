@@ -1,4 +1,4 @@
-# How-Should-you-Install-RGB
+# How-and-Should-you-Install-RGB
 *I'll answer the second question right off the start, you absolutely should install RGB. Go do it. Like, now.*
 
 Anyway, you've got two choices for installing it: power 'directly' from battery, or from an outlet in the cabin. There are some pros and cons to each option. 
